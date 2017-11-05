@@ -1,4 +1,4 @@
-var hexpress = require('./hexpress');
+var hexpress = require('./lib/hexpress');
 var app = hexpress();
 
 // Simple route '/' that should replace the :fname and :lname
